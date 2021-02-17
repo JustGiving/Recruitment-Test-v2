@@ -4,11 +4,11 @@ A big part of what we do at JustGiving is reclaim the Gift Aid on donations made
 
 The calculation for gift aid is `[Donation Amount] * ( [TaxRate] / (100 - [TaxRate]) )`.
 
+  * Please DO NOT fork this project on Github, as we want to be sure candidates' test submissions are original.
   * For unit testing we use NUnit and NSubstitute, these are already referenced in the projects, but feel free to use which ever framework you prefer.
   * All stories should be completed with an appropriate amount of testing.
   * Please create a public repo (GitHub, BitBucket, GitLab etc) and send us the link, make sure to commit regularly so we can see how you came up with the solution.
   * Remember to be RESTful.
-  * Please do not fork this project on Github, as we want to be sure candidates' test submissions are original.
 
 ## Story 1 - Gift Aid Calculator
 * Create a calculator.
